@@ -4,7 +4,7 @@ var2 = "uw"
 
 finalVar = var2+var
 
-hello = "hello"
+hello = "hi"
 
 hjfkhsa="hjfkdé"
 
