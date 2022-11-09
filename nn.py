@@ -8,4 +8,4 @@ hello = "hello"
 
 hjfkhsa="hjfkdé"
 
-bonjour="Salutt"
+bonjour="salut"
