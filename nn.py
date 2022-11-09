@@ -2,4 +2,4 @@ var = "goose"
 
 var2 = "uw"
 
-finalVar = var2+var1
+finalVar = var2+var
